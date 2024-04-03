@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KHKNgaO1KxseEb7ZL/bscVPEja6z0DphyRCPkXt0MEA=",
+  "Source": "Secrets_Manager",
+  "BasePath": "_content/Secrets_Manager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
