@@ -28,7 +28,7 @@
 
 
   <h2>Running the Application</h2>
-  <p>Change directory: <code>cd Secrets_Manager<code></p>
+  <p>Change directory: <code>cd Secrets_Manager</code></p>
   <p>To run the application, use the following command:<br><code>dotnet run</code><br>The application will start listening on the configured port (by default, port 5000). You can now access the endpoints described above.</p>
 
   <h2>Contributing</h2>
