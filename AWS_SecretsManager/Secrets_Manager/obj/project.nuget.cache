@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OL49dgamXhHRTiVIDSP/yHUJgw529E+dLmceiUpeALqB0yEZ771+7b+swR6pm4puklzltEEuEsX2UnUYBN2oOA==",
+  "dgSpecHash": "m8xUDSU5XYp3JALTVMOzT6jU4KcCwLmB7dvOgo+MWpMfjckOREdNEw14wDhmJKTqI69Nj+08bw/Ry0HWlmBRMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karthik\\Desktop\\GitHub_AWS\\AWS_dotnet\\AWS_SecretsManager\\Secrets_Manager\\Secrets_Manager.csproj",
+  "projectFilePath": "C:\\Users\\Karthik\\Desktop\\dotnet\\AWS_dotnet\\AWS_SecretsManager\\Secrets_Manager\\Secrets_Manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karthik\\.nuget\\packages\\awssdk.core\\3.7.303.7\\awssdk.core.3.7.303.7.nupkg.sha512",
     "C:\\Users\\Karthik\\.nuget\\packages\\awssdk.secretsmanager\\3.7.302.42\\awssdk.secretsmanager.3.7.302.42.nupkg.sha512",
